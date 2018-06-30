@@ -1,2 +1,0 @@
-[30-Jun-2018 13:11:36 Europe/Moscow] Сервер: Запуск UnioMasterHandler успешно выполнен.
-[30-Jun-2018 13:11:36 Europe/Moscow] Сервер: Запуск UnioWebHandler успешно выполнен.
