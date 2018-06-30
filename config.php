@@ -28,7 +28,7 @@ mb_internal_encoding('UTF-8');
 $cfg = array(
 	'gzip'			=> 1,
 	'rus'			=> false,
-	'path'			=> '/UnioChat2/',
+	'path'			=> '/',
 	'site_url'		=> 'OMSite/',
 	'host'			=> 'localhost', //-- CHANGE THIS TO YOU DOMAIN
 	
