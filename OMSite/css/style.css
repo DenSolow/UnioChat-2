@@ -1,0 +1,16 @@
+@charset "utf-8";
+/* CSS Document */
+
+body, td, pre {font-size:14px;font-family:Verdana, Geneva, sans-serif;}
+
+.spoiler, .spoiler_title {border:1px dotted #CBC8B9;border-radius:2px;overflow:hidden;border-left:2px solid #CBC8B9;}
+.spoiler_title {margin-top:3px;color:#2A2A2A;font:bold 90% sens-serif;background:#f0f0f0 url(../../images/minus.gif) no-repeat 7px 50%;padding:2px 5px 2px 22px;}
+.spoiler {margin-bottom:3px;border-top:0;background-color:#f8f8f4;padding:5px;}
+
+.features {color:#33F;}
+.changes {color:green;}
+
+h2 {font-size:19px;line-height:normal;font-weight:normal;border-bottom:1px solid #CCC;overflow:hidden;}
+h3 {font-weight:700;line-height:normal;}
+
+hr {border:0;border-top:1px solid #999;}

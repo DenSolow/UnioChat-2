@@ -1,0 +1,43 @@
+@charset "utf-8";
+/* CSS Document */
+
+html,body {height:100%;margin:0;padding:0;outline:0;}
+html {font-size:62.5%;}
+body {font:0.7em/normal Tahoma, Geneva, sans-serif;color:#0A0A0A;background-color:#FFF;overflow:hidden;}
+table,img,fieldset {border:0;}
+fieldset {padding:11px 0px;}
+input[type="text"],input[type="password"] {padding:4px;}
+input, textarea {font-family:Tahoma, Geneva, sans-serif;}
+hr {border:0;border-top:1px solid #999;}
+progress {width:100%;}
+
+@media (max-width: 300px) {
+    html { font-size: 90%; }
+}
+
+@media (min-width: 500px) {
+    html { font-size: 100%; }
+}
+
+@media (min-width: 700px) {
+    html { font-size: 110%; }
+}
+
+@media (min-width: 1300px) {
+    html { font-size: 130%; }
+}
+
+a:link,a:visited,a:active {color:#3366CC;text-decoration:none;}
+a:hover, .aa:hover {text-decoration:none;color:#203f7e;}
+.aa {color:#3366CC;border-bottom:1px dashed currentColor;cursor:pointer;}
+.aa:hover {color:#203f7e;border-bottom:0;}
+
+.box {width:100%;height:100%;min-height:250px;}
+
+/* Каркас */
+body > div {text-align:center;margin-top:150px;}
+
+/* Формы */
+form {display:none;}
+input { width:20%; text-align:center;}
+button {padding:10px;border:1px solid #CCC; font-weight:700;}
